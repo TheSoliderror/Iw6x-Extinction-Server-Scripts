@@ -2,7 +2,7 @@
 This is some of the scripts I have created for my extinction server
 
 # What does the files do?
-*If you use all files it comes with 
+*If you use all files it comes with* 
 * Map Chooser
 * Chat Pop Up Messeges
 * Discord command
